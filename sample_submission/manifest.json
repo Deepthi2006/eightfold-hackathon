@@ -1,0 +1,18 @@
+{
+  "team_name": "CtrlAltReact",
+  "team_id": "deepthi-v",
+  "institution": "Anna University",
+  "members": [
+    {
+      "name": "Poojasri",
+      "email": "poojasrinirmalamanickam@gmail.com",
+      "role": "lead"
+    },
+    {
+      "name": "Deepthi",
+      "email": "deepthitheeran@gmail.com",
+      "role": "member"
+    }
+  ],
+  "entry_point": "agent.py"
+}

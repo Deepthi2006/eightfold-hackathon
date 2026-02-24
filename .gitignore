@@ -1,0 +1,29 @@
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data Files (Excluded from Git for Size/Security)
+dataset.csv
+labels.npy
+*.csv
+*.npy
+
+# Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Output
+submission.zip
+CTRL_ALT_REACT_submission.zip
+final_results.txt
+final_summary.txt
+last_test_results.txt
+results.txt
+sample_results.txt
+
+# IDE
+.vscode/
+.idea/
